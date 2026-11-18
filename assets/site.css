@@ -110,6 +110,7 @@ li{margin:.4em 0;max-width:68ch}
 .qwrap h2{color:#fff}
 .qwrap p{color:#dfe9f5}
 .qwrap a{color:#8fe3cf}
+.qwrap .txq a{color:#0a5f6f}
 .qwrap .big{display:inline-flex;align-items:center;gap:10px;color:#fff;font-size:1.6rem;font-weight:800;text-decoration:none;margin-top:6px}
 .txq{background:#fff;color:var(--body);border-radius:var(--r);padding:24px}
 .txq .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
